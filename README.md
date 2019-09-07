@@ -1,3 +1,3 @@
 # R---Tips-Tricks
-R - Information and code to solve problems
-#INTRODUCTION
+R - Information and code to solve problems  
+INTRODUCTION
